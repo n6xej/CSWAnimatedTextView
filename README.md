@@ -10,10 +10,10 @@ A Text View that shows the texts as a color gradient that animates
 
 ## Installation
 
-Install GTToast by using [CocoaPods](http://cocoapods.org). Include the following in your Podfile:
+Install CSWAnimatedTextView by using [CocoaPods](http://cocoapods.org). Include the following in your Podfile:
 
 ```
-pod 'GTToast'
+pod 'CSWAnimatedTextView'
 ``` 
 
 ## How to get started
