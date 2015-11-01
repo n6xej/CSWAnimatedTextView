@@ -48,7 +48,7 @@ identity inspector Custom Class
 
 # Example Project
 
-[CSWAnimatedTextExample example](https://github.com/n6xej/CSWAnimatedTextExample)
+[CSWAnimatedTextViewExample example](https://github.com/n6xej/CSWAnimatedTextViewExample)
 
 # License
 
