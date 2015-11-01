@@ -1,5 +1,9 @@
 # CSWAnimatedTextView
 
+[![Version](https://img.shields.io/cocoapods/v/CSWAnimagedTextView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedTextView)
+[![License](https://img.shields.io/cocoapods/l/CSWAnimagedTextView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedTextView)
+[![Platform](https://img.shields.io/cocoapods/p/CSWAnimagedTextView.svg?style=flat)](http://cocoapods.org/pods/CSWAnimagedTextView)
+
 A Text View that shows the texts as a color gradient that animates
 
 <p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextView/master/ScreenShot/ScreenShot1.png"/></p>
