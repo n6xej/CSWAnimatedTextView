@@ -3,8 +3,6 @@
 A Text View that shows the texts as a color gradient that animates
 
 <p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextView/master/ScreenShot/ScreenShot1.png"/></p>
-<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextView/master/ScreenShot/ScreenShot2.png"/></p>
-<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextView/master/ScreenShot/ScreenShot3.png"/></p>
 
 ## Installation
 
@@ -26,6 +24,9 @@ titleString - Text of the Text View
 
  can be added to your controller's view using Interface Builder or programmatically with the following code:
 identity inspector Custom Class
+
+<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextView/master/ScreenShot/ScreenShot2.png"/></p>
+<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextView/master/ScreenShot/ScreenShot3.png"/></p>
 
 ```
     
