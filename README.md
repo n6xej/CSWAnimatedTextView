@@ -50,6 +50,10 @@ identity inspector Custom Class
 
 [CSWAnimatedTextViewExample example](https://github.com/n6xej/CSWAnimatedTextViewExample)
 
+## Author
+
+Christopher Worley, n6xej@aim.com
+
 # License
 
 The MIT License (MIT)
