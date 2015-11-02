@@ -6,7 +6,7 @@
 
 A Text View that shows the texts as a color gradient that animates
 
-<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextView/master/ScreenShot/ScreenShot1.png"/></p>
+<p align="center"><img src="https://raw.github.com/n6xej/CSWAnimatedTextView/master/ScreenShot/ScreenShot1.gif"/></p>
 
 ## Installation
 
