@@ -22,7 +22,7 @@
 
 @end
 
-IB_DESIGNABLE @interface CSWAnimatedTextView : UIView
+@interface CSWAnimatedTextView : UIView
 
 @property (nonatomic, strong, readonly) CSWAnimatedTextObject *animatedTextObject;
 
